@@ -1,24 +1,3 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Just do `bin/dev` after installing Rails. The only difference [from the upstream tutorial](https://www.akshaykhot.com/building-to-do-list-using-hotwire-and-stimulus/) is that the checkbox is also a button that is hotwired.
